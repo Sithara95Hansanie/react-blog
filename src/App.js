@@ -20,9 +20,6 @@ function App() {
           <Header />
           <Switch>
             <Route exact path="/" component={Home} />
-            {/* <Route exact path="/slider" component={Transaction} />
-            <Route exact path="/flex" component={Flex} />
-            <Route exact path="/use-effects" component={Effect} /> */}
 
             <Route path="/:id" component={Post} />
           </Switch>
