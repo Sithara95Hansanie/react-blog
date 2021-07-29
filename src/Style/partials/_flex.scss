@@ -1,0 +1,105 @@
+// .main-card-wrap {
+//   width: 300px;
+//   height: 100px;
+//   border: 1px solid black;
+//   display: flex;
+//   .inner-card {
+//     -ms-flex: 1; /* IE 10 */
+//     flex: 1;
+//     background-color: gray;
+//     border: solid 1px white;
+//   }
+// }
+
+// .main-card-wrap2 {
+//   width: 300px;
+//   height: 100px;
+//   //   border: 1px solid #e04040;
+//   display: flex;
+//   .inner-card2 {
+//     flex-grow: 0;
+//     flex-shrink: 0;
+//     flex-basis: 50px;
+//     border: 1px solid #e04040;
+
+//     &:nth-child(2) {
+//       flex-basis: 100px;
+//       background-color: khaki;
+//     }
+//     &:nth-child(3) {
+//       background-color: rgb(115, 255, 169);
+//     }
+//   }
+// }
+// .main-card-wrap3 {
+//   width: 400px;
+//   height: 200px;
+//   border: 1px solid #c3c3c3;
+//   display: flex;
+//   flex-direction: column;
+//   flex-wrap: wrap;
+//   .inner-card3 {
+//     width: 50px;
+//     height: 50px;
+//     &:nth-child(1) {
+//       background-color: khaki;
+//     }
+//     &:nth-child(2) {
+//       background-color: rgb(183, 231, 8);
+//     }
+//     &:nth-child(3) {
+//       background-color: rgb(230, 118, 26);
+//     }
+//     &:nth-child(4) {
+//       background-color: rgb(141, 48, 5);
+//     }
+//     &:nth-child(5) {
+//       background-color: rgb(201, 7, 120);
+//     }
+//   }
+// }
+// .main-card-wrap4 {
+//   width: 400px;
+//   height: 100px;
+//   border: 1px solid #c3c3c3;
+//   display: flex;
+//   flex-flow: row-reverse wrap;
+//   .inner-card4 {
+//     border: 1px solid #e04040;
+//     width: 60px;
+//   }
+// }
+
+// .main-card-wrap5 {
+//   width: 400px;
+//   height: 100px;
+//   border: 1px solid #c3c3c3;
+//   display: flex;
+//   .inner-card {
+//     border: 1px solid #9be040;
+//     width: 60px;
+//     &:nth-child(1) {
+//       flex-grow: 1;
+//     }
+//     &:nth-child(2) {
+//       flex-grow: 3;
+//     }
+//   }
+// }
+// .main-card-wrap6 {
+//   width: 400px;
+//   height: 100px;
+//   border: 1px solid #c3c3c3;
+//   display: flex;
+//   .inner-card {
+//     flex-grow: 1;
+//     flex-shrink: 1;
+//     flex-basis: 100px;
+//     border: 1px solid #e04040;
+
+//     &:nth-last-child(2) {
+//       flex-shrink: 2;
+//       background-color: khaki;
+//     }
+//   }
+// }

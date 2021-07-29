@@ -1,0 +1,284 @@
+[
+    {
+      "id": 1,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/german-us.png",
+      "img1": "/img/transaction/feytec.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/facebook.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+    },
+    {
+      "id": 2,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/USAFULL.png",
+      "img1": "/img/transaction/meemo.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/coinbase.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+    },
+    {
+      "id": 3,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/german-china.png",
+      "img1": "/img/transaction/jodel.png",
+      "aquired": "Received a growth investment from",
+      "img2": "/img/transaction/neteasegame.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+      
+    },
+    {
+      "id": 4,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/USAFULL.png",
+      "img1": "/img/transaction/trilumin.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/lumentum.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+    },
+    {
+      "id": 5,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/USAFULL.png",
+      "img1": "/img/transaction/mohu.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/antenas.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+    },
+    {
+      "id": 6,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/singapore-us.png",
+      "img1": "/img/transaction/leminstec.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/facebook.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+      
+    },
+    {
+      "id": 7,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/uk-us3.png",
+      "img1": "/img/transaction/spectraledge.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/apple.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+      
+    },
+    {
+      "id": 8,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/USAFULL.png",
+      "img1": "/img/transaction/apatare.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/veritas-carlyle.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+    },
+    {
+      "id": 9,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/irish-us.png",
+      "img1": "/img/transaction/semi.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/dialog-adesto.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+    },
+    {
+      "id": 10,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/us-china.png",
+      "img1": "/img/transaction/nvx.png",
+      "aquired": "Received a growth investment from",
+      "img2": "/img/transaction/alibaba.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+    },
+    {
+      "id": 11,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/USAFULL.png",
+      "img1": "/img/transaction/projectFT1.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/ethertronic.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+      
+    },
+    {
+      "id": 12,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/FLAG-Ireland.png",
+      "img1": "/img/transaction/luzren.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/cardinal.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+     },
+     {
+      "id": 13,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/irish-us.png",
+      "img1": "/img/transaction/nearform.png",
+      "aquired": " Received a growth investment from",
+      "img2": "/img/transaction/colubiacapital.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+      
+    },
+    {
+      "id": 14,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/USAFULL.png",
+      "img1": "/img/transaction/rc.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/watlop.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+      
+    },
+    {
+      "id": 15,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/USAFULL.png",
+      "img1": "/img/transaction/oakgate.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/teledyne.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+     
+    },
+    {
+      "id": 16,
+      "date": "Dec 2020",
+      "flagspan":"/img/Flags/us-japan.png",
+      "flagspan2":"/img/Flags/greek-japan.png",
+      "img1": "/img/transaction/roboteq.png",
+      "aquired": "Acquired by",
+      "img2": "/img/transaction/nider.png",
+      "sector":"Media & Internet",
+      "deal":"Private Capital",
+      "deal2":"Founder-Led Businesses",
+      "engagement":"Fund Raise",
+      "size":"$45 Million"
+      
+    },
+  {
+    "id": 17,
+    "date": "Dec 2020",
+    "flagspan":"/img/Flags/canada-japan.png",
+    "flagspan2":"/img/Flags/canada-us.png",
+    "img1": "/img/transaction/landar.png",
+    "aquired": "Received a growth investment from",
+    "img2": "/img/transaction/sony-shure-logo.png",
+    "sector":"Media & Internet",
+    "deal":"Private Capital",
+    "deal2":"Founder-Led Businesses",
+    "engagement":"Fund Raise",
+    "size":"$45 Million"
+   
+  },
+  {
+    "id": 18,
+    "date": "Dec 2020",
+    "flagspan":"/img/Flags/canada-us.png",
+    "img1": "/img/transaction/solacom.png",
+    "aquired": "Acquired by",
+    "img2": "/img/transaction/comtec.png",
+    "sector":"Media & Internet",
+    "deal":"Private Capital",
+    "deal2":"Founder-Led Businesses",
+    "engagement":"Fund Raise",
+    "size":"$45 Million"
+   
+  },
+  {
+    "id": 19,
+    "date": "Dec 2020",
+    "flagspan":"/img/Flags/USAFULL.png",
+    "img1": "/img/transaction/initalstst.png",
+    "aquired": "Acquired by",
+    "img2": "/img/transaction/fortive.png",
+    "sector":"Media & Internet",
+    "deal":"Private Capital",
+    "deal2":"Founder-Led Businesses",
+    "engagement":"Fund Raise",
+    "size":"$45 Million"
+   
+  },
+  {
+    "id": 20,
+    "date": "Dec 2020",
+    "flagspan":"/img/Flags/uk-us3.png",
+    "img1": "/img/transaction/redux.png",
+    "aquired": "Acquired by",
+    "img2": "/img/transaction/google.png",
+    "sector":"Media & Internet",
+    "deal":"Private Capital",
+    "deal2":"Founder-Led Businesses",
+    "engagement":"Fund Raise",
+    "size":"$45 Million"
+   
+  }
+  
+  ]
